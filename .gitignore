@@ -1,3 +1,5 @@
 *.pdf
 *.xlsx
 **/.ipynb_checkpoints
+/venv
+/venv_personal
